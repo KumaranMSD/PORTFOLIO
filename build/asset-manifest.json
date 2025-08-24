@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1eb095bf.css",
+    "main.js": "/static/js/main.f2fa50ac.js",
+    "static/js/453.ad7768ec.chunk.js": "/static/js/453.ad7768ec.chunk.js",
+    "index.html": "/UDAYAR_KUMARAN.pdf",
+    "main.1eb095bf.css.map": "/static/css/main.1eb095bf.css.map",
+    "main.f2fa50ac.js.map": "/static/js/main.f2fa50ac.js.map",
+    "453.ad7768ec.chunk.js.map": "/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eb095bf.css",
+    "static/js/main.f2fa50ac.js"
+  ]
+}
